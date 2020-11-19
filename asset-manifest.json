@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pavitrasapaliga.github.io/smartbrain/static/css/main.ec801e60.chunk.css",
+    "main.js": "/pavitrasapaliga.github.io/smartbrain/static/js/main.c007621a.chunk.js",
+    "main.js.map": "/pavitrasapaliga.github.io/smartbrain/static/js/main.c007621a.chunk.js.map",
+    "runtime-main.js": "/pavitrasapaliga.github.io/smartbrain/static/js/runtime-main.86c56d36.js",
+    "runtime-main.js.map": "/pavitrasapaliga.github.io/smartbrain/static/js/runtime-main.86c56d36.js.map",
+    "static/css/2.31461e4f.chunk.css": "/pavitrasapaliga.github.io/smartbrain/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2d814866.chunk.js": "/pavitrasapaliga.github.io/smartbrain/static/js/2.2d814866.chunk.js",
+    "static/js/2.2d814866.chunk.js.map": "/pavitrasapaliga.github.io/smartbrain/static/js/2.2d814866.chunk.js.map",
+    "static/js/3.fa9f1267.chunk.js": "/pavitrasapaliga.github.io/smartbrain/static/js/3.fa9f1267.chunk.js",
+    "static/js/3.fa9f1267.chunk.js.map": "/pavitrasapaliga.github.io/smartbrain/static/js/3.fa9f1267.chunk.js.map",
+    "index.html": "/pavitrasapaliga.github.io/smartbrain/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/pavitrasapaliga.github.io/smartbrain/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.ec801e60.chunk.css.map": "/pavitrasapaliga.github.io/smartbrain/static/css/main.ec801e60.chunk.css.map",
+    "static/js/2.2d814866.chunk.js.LICENSE.txt": "/pavitrasapaliga.github.io/smartbrain/static/js/2.2d814866.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c56d36.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2d814866.chunk.js",
+    "static/css/main.ec801e60.chunk.css",
+    "static/js/main.c007621a.chunk.js"
+  ]
+}
